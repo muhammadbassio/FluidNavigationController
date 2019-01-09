@@ -14,7 +14,7 @@ A customizable nice looking NavigationController (written in swift).
  
   s.pod_target_xcconfig = { 'SWIFT_VERSION' => '4.2' }
   s.ios.deployment_target = '11.0'
-  s.source_files = 'source/**/*.swift'
-  s.resources = 'source/**/*.xcassets'
+  s.source_files = 'sources/**/*.swift'
+  s.resources = 'sources/*.xcassets'
  
 end
